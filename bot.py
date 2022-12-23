@@ -1,5 +1,4 @@
 import os
-from telebot import types,util
 from telebot.async_telebot import AsyncTeleBot
 import asyncio
 import notifier
